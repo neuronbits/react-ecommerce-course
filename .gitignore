@@ -11,6 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
+ecommerce-react-course-website-main
 
 # Editor directories and files
 .vscode/*

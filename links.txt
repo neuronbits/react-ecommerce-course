@@ -1,3 +1,8 @@
 https://www.youtube.com/watch?v=Wt3isV2irrA&list=PPSV
 
 npx create-vite@latest
+
+git checkout -b development
+
+npm i react-router-dom
+npm i react-hook-form
